@@ -1,0 +1,8 @@
+.DS_Store
+*.HEIC
+*.jpeg
+*.jpg
+*.MOV
+*.mp4
+*.pt
+venv
