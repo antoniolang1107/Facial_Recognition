@@ -6,3 +6,4 @@
 *.mp4
 *.pt
 venv
+*.json
